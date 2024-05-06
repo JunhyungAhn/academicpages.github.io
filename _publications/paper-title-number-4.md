@@ -1,9 +1,7 @@
 ---
-title: "On the Fundamental Limits of Matrix Completion: Leveraging Hierarchical Similarity Graphs"
+title: "Counterfactual Label Generation for Conversion Rate Prediction"
 collection: publications
-permalink: /publication/tit_2024
-date: 2024-01-03
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://arxiv.org/abs/2109.05408'
+permalink: /publication/kdd_2025
+date: 2025-01-01
+venue: 'Knowledge Discovery and Data Mining (KDD)'
 ---
-
