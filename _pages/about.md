@@ -7,12 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I am currently serving as a Technical Research Personnel at Dable for military purposes. I received my M.S. and B.S. in School of Electrical Engineering from KAIST.
+I am currently serving as a Technical Research Personnel at [Dable](https://dable.io/en/) for military purposes. I received my M.S. and B.S. in School of Electrical Engineering from [KAIST](https://ee.kaist.ac.kr/).
 
 My research primarily focuses on improving recommender systems by incorporating information theory, social networks, and causal inference. I have published papers both in machine learning and information theory conferences (e.g., NeurIPS, ISIT, and IEEE TIT).
 
-<!--A data-driven personal website-->
-<!--======-->
+Research Interests
+======
+Through my previous projects, I have come to fully understand and appreciate the critical importance of recommender systems in various industries, such as e-commerce and social media. Specifically, I am intrigued by the growing field of graph machine learning since it captures the complex relationships between entities efficiently. Knowledge graphs, both addressing biases and giving interpretations of outputs. Thus, I am eager to explore cutting-edge research in this field by applying my research experience which leverages social graphs in recommending. 
+
+Moreover, because treating people fairly and interpreting the outputs of models has become a predominant issue in various real-world situations, I am also captivated by causality, fairness, and interpretability in machine learning. I also aspire to contribute to the creation of fair and transparent machine learning systems, especially given their profound impact in areas such as healthcare, and finance.
+
 <!--Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.-->
 <!---->
 <!--Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).-->
