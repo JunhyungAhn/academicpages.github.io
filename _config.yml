@@ -35,7 +35,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=_zOGlFMAAAAJ&hl=ko&oi=ao"
   impactstory      : # URL
   # orcid            :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
@@ -47,7 +46,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
