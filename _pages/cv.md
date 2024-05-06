@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Please see my [cv]("https://junhyungahn.github.io/files/Curriculum_Vitae__Junhyung_Ahn.pdf").
+Please see my [cv](https://junhyungahn.github.io/files/Curriculum_Vitae__Junhyung_Ahn.pdf).
