@@ -1,20 +1,9 @@
 ---
-title: 'Blog Post number 3'
-date: 2014-08-14
-permalink: /posts/2014/08/blog-post-3/
+title: 'Graph Machine Learning'
+date: 2024-05-07
+permalink: /posts/graph_ml/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - graph machine learning
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool. 
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+In order to learn Graph Neural Network, I took the online lecture ["CS224W: Machine Learning with Graphs"](https://web.stanford.edu/class/cs224w/), organized by Prof. Jure Leskovec, and created a summary for each lecture in this [notion page](https://www.notion.so/CS224W-Machine-Learning-with-Graphs-f3099e7ac1db4e0ea237a1ef7728a60c).

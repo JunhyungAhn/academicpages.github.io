@@ -1,20 +1,9 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Natural Language Processing'
+date: 2024-05-07
+permalink: /posts/nlp/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - natural language processing
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
+In order to learn Natural Language Processing, I took the online lecture ["CS224N: CS224N: Natural Language with Deep Learning"](https://web.stanford.edu/class/cs224n/), organized by Prof. Chris Manning, and created a summary for each lecture in this [notion page](https://www.notion.so/CS224N-Natural-Language-with-Deep-Learning-ab96bbeb868a4f228925f2548ce0b8c2).
