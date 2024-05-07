@@ -12,5 +12,5 @@ redirect_from:
 A full list of my publications can be found [here](https://scholar.google.com/citations?user=_zOGlFMAAAAJ&hl=ko&oi=ao).
 
 * Counterfactual Label Generation for Conversion Rate Prediction
-  Junhyung Ahn
-  **Knowledge Discovery and Data Mining (KDD)**, 2025
+  * Junhyung Ahn
+  * Knowledge Discovery and Data Mining (KDD), 2025
