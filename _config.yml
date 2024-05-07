@@ -21,7 +21,7 @@ repository               : "JunhyungAhn/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_resized.png"
   name             : "Junhyung Ahn"
   pronouns         : # example: "she/her"
   bio              : "Machine Learning Engineer"
